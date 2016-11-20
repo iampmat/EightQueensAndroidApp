@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/patrickmatherly/Developer/EightQueens/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/patrickmatherly/Developer/EightQueens/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/patrickmatherly1994/Desktop/IBM_Computer/Old Developer/EightQueens/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/patrickmatherly1994/Desktop/IBM_Computer/Old Developer/EightQueens/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/patrickmatherly1994/Desktop/IBM_Computer/Old Developer/EightQueens/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/patrickmatherly1994/Desktop/IBM_Computer/Old Developer/EightQueens/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/patrickmatherly/Developer/EightQueens/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/patrickmatherly/Developer/EightQueens/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
